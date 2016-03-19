@@ -1,6 +1,5 @@
-# react-static-site-playground
+# allthingspeis.com
 
-Warning: This is still very much a work in progress. Also, this might be a terrible idea.
 
 ## Run it
 
